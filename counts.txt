@@ -1,0 +1,3 @@
+114 CNVs replicated early
+110 CNVs replicated late
+235 CNVs that overlap with both late and early replication
